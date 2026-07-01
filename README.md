@@ -43,3 +43,6 @@ Espaço em disco
 Atualizações pendentes
 Segurança ativa
 Condição do hardware
+
+
+https://github.com/RudiLima/Auditoria-de-Saude-de-Maquinas-para-Endpoint/blob/main/Coleta_Evidence.png
